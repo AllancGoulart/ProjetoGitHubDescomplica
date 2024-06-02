@@ -1,0 +1,10 @@
+h1 {
+	text-align: center;
+	color:green;
+}
+
+img {
+	max-width: 100%;
+	/* display: block; */
+	object-fit: cover;
+}
